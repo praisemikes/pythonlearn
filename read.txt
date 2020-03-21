@@ -1,0 +1,2 @@
+这是一个Python基础学习和交流用的地方。
+This is a place for basic Python learning and communication。
